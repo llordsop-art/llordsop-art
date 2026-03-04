@@ -1,15 +1,16 @@
 # Hi there, I'm llordsop-art 👋
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Languages/Tools]
-- 🎨 Passionate about creative coding and design.
+- 🔭 I’m currently working on **Upwork Automation Suite**, a professional Python-based project for client delivery.
+- 🏗️ Building **CloudScale**, a cloud-native infrastructure project using Go.
+- 🌱 I’m currently mastering **Go (Golang)** and advanced **Python** patterns.
+- ☁️ Specialized in **Cloud Computing** and backend architecture.
 
 ### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical)
