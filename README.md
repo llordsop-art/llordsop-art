@@ -1,5 +1,5 @@
 ### 📊 GitHub Activity & Skills
-- 🏆 **Total Contributions:** 15+ in the last year
+- 🏆 **Total Contributions:** 2+ in the last year
 - 🐍 **Primary Focus:** Network Automation & Cloud Infrastructure
 - ⚙️ **Tools:** Netmiko, Scapy, Docker, Terraform
 ---
