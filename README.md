@@ -1,10 +1,8 @@
-# Hi there, I'm llordsop-art 👋
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Upwork Automation Suite**, a professional Python-based project for client delivery.
-- 🏗️ Building **CloudScale**, a cloud-native infrastructure project using Go.
-- 🌱 I’m currently mastering **Go (Golang)** and advanced **Python** patterns.
-- ☁️ Specialized in **Cloud Computing** and backend architecture.
+### 📊 GitHub Activity & Skills
+- 🏆 **Total Contributions:** 15+ in the last year
+- 🐍 **Primary Focus:** Network Automation & Cloud Infrastructure
+- ⚙️ **Tools:** Netmiko, Scapy, Docker, Terraform
+---
 
 ### 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -12,8 +10,5 @@
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=llordsop-art&layout=compact&theme=radical)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical&count_private=true&v=2)
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llordsop-art&layout=compact&theme=radical) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical&count_private=true)
