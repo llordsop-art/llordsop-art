@@ -14,4 +14,3 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical)
-<img width="930" height="540" alt="image" src="https://github.com/user-attachments/assets/57d3b340-7126-452b-b94a-1dc15f5196e5" />
