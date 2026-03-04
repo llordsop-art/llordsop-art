@@ -13,4 +13,5 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical)
+<img width="930" height="540" alt="image" src="https://github.com/user-attachments/assets/57d3b340-7126-452b-b94a-1dc15f5196e5" />
