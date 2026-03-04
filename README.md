@@ -1,8 +1,7 @@
-### 📊 GitHub Activity & Skills
-- 🏆 **Total Contributions:** 2+ in the last year
-- 🐍 **Primary Focus:** Network Automation & Cloud Infrastructure
-- ⚙️ **Tools:** Netmiko, Scapy, Docker, Terraform
----
+### 🚀 Key Technical Strengths
+- **Network Automation:** Netmiko, Scapy, Paramiko
+- **Cloud Infrastructure:** Google Cloud (GCP), AWS, Terraform
+- **Backend Development:** Python, Go (Golang), Docker
 
 ### 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
