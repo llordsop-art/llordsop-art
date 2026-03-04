@@ -14,3 +14,4 @@
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=llordsop-art&layout=compact&theme=radical)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=llordsop-art&show_icons=true&theme=radical&count_private=true)
