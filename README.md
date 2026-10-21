@@ -1,44 +1,16 @@
-# 🌱 My Python Journey / Python Yolculuğum 🐍
+### Hey, I'm Emre 👋
 
-Hello! I'm a beginner learning Python from scratch. This repository is my digital garden where I document everything I learn, day by day. 🚀
+I work on **Cloud Infrastructure (AWS)**, **Network Automation**, and **AI/LLM Security**. 
+I enjoy automating repetitive security checks with Python and building clean, secure architectures under **[KOR](https://kordefence.net)**.
 
-*Merhaba! Python'ı sıfırdan öğrenen biriyim. Bu depo, öğrendiğim her şeyi gün gün belgelediğim dijital bahçem.*
+#### 🛠️ What I'm working on & exploring:
+- ☁️ **Cloud & Infrastructure:** Hardening AWS environments (IAM, S3), Linux servers, and Docker containers.
+- 🤖 **AI & API Security:** Testing LLM integrations against prompt injections and securing REST APIs.
+- ⚡ **Automation:** Writing Python & Bash scripts (Netmiko, Scapy, Boto3) to parse logs, audit configs, and save time.
 
----
-
-### 📅 Where am I now? / Şu an neredeyim?
-
-Python'ı öğrenirken kat ettiğim mesafe:
-
-| Day / Gün | What I Learned / Ne Öğrendim? | Status / Durum |
-| :---: | :--- | :---: |
-| 01 | Printing & Variables (Yazdırma ve Değişkenler) | [✅ View](./Day1/) |
-| 02 | Data Types & Math (Veri Tipleri ve Matematik) | [✅ View](./Day2/) |
-| 03 | Decisions & Logic (Kararlar ve Mantık) | [✅ View](./Day3/) |
-| 04 | Lists & Randomness (Listeler ve Rastgelelik) | ⏳ Learning... |
+#### 📂 Highlighted Repos
+- **[python-network-automation-script](https://github.com/1lordsop-art/python-network-automation-script)** — Automating network configs and device monitoring with Python, Netmiko & Scapy.
+- **kor-aws-iam-auditor** — Lightweight Python script to catch wildcard (`*`) and privilege escalation risks in AWS IAM policies.
 
 ---
-
-### 📝 Learning Log / Öğrenme Notlarım
-
-- **Day 1:** It was exciting to see my first "Hello World"! Değişkenleri ve girdi almayı öğrendim.
-- **Day 2:** Numbers can be tricky! Veri tipleri arasındaki farkları ve f-string'leri kavradım.
-- **Day 3:** Making decisions! `if/else` ile programlara "karar verme" yeteneği kazandırdım. Treasure Island oyunu çok eğlenceliydi! 🏝️
-
----
-
-### ⭐ Goal / Hedef
-I want to complete the **100 Days of Code** challenge and build my own projects. Every commit here is a small step towards that goal.
-
-*Amacım **100 Days of Code** meydan okumasını tamamlamak ve kendi projelerimi geliştirmek. Buradaki her güncelleme, bu hedefe giden küçük bir adımdır.*
-
----
-
-### 📫 Let's keep in touch! / İletişimde Kalalım!
-
-<p align="left">
-<a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="SENIN_LINKIN"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
-</p>
-
----
+📫 Reach out: **[kordefence.net](https://kordefence.net)** or `info@kordefence.com`
