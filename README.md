@@ -1,7 +1,30 @@
-### Hey, I'm Emre 👋
+# KOR DEF — Zero-Trust Cloud & AI Security Architecture
 
-I work on **Cloud Infrastructure (AWS)**, **Network Automation**, and **AI/LLM Security**. 
-I enjoy automating repetitive security checks with Python and building clean, secure architectures under **[KOR](https://kordefence.net)**.
+Welcome to the GitHub profile of **Emre Er**, Founder & Security Architect at **KOR DEF**. We specialize in engineering zero-trust cloud security, safeguarding LLM/AI agent ecosystems, and automating DevSecOps pipelines.
+
+---
+
+### 🛡️ Core Expertise Pillars
+
+1. **AWS Infrastructure & PoLP Hardening**
+   - Least Privilege (PoLP) IAM policy enforcement, wildcard privilege remediation, `iam:PassRole` escalation path auditing, and public S3 bucket exposure prevention for SOC 2 CC6.1 compliance.
+2. **OWASP LLM Top 10 & API Boundaries**
+   - Deterministic prompt injection defense, agentic tool-use boundary enforcement, JWT/OAuth 2.0 flow validation, and API rate/context security.
+3. **Cloudflare Zero-Trust & Edge WAF**
+   - Custom WAF ruleset deployment, Zero-Trust Access policies, DMARC (`p=reject`) email authentication verification, and DDoS mitigation.
+4. **Container & Python DevSecOps Automation**
+   - CI/CD security gates with Trivy & Semgrep in GitHub Actions, Linux server hardening (SSH/UFW), and automated compliance reporting.
+
+---
+
+### 🧰 Tools & Technologies
+`AWS IAM` • `AWS S3` • `AWS GuardDuty` • `Cloudflare WAF` • `DMARC` • `Python` • `Docker` • `Trivy` • `Semgrep` • `GitHub Actions` • `Linux SSH/UFW`
+
+---
+
+### 📬 Contact & Links
+- **Website**: [kordefence.net](https://www.kordefence.net)
+- **Email**: `info@kordefence.com`
 
 #### 🛠️ What I'm working on & exploring:
 - ☁️ **Cloud & Infrastructure:** Hardening AWS environments (IAM, S3), Linux servers, and Docker containers.
